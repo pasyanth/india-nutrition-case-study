@@ -1,0 +1,177 @@
+﻿serial,item_code,item_name,unit,kcal_per_unit,protein_g_per_unit,fat_g_per_unit
+1,061,rice – free,kg,3567.0,79.4,5.2
+2,062,wheat/atta – free,kg,3206.0,105.7,15.3
+3,070,"coarse grains - free (jowar, bajra, maize, barley, ragi, small millets)",kg,2993.0,94.4,30.2
+4,101,rice - PDS,kg,3567.0,79.4,5.2
+5,102,rice - other sources,kg,3567.0,79.4,5.2
+6,103,chira,kg,3541.0,74.4,11.4
+7,105,muri,kg,3622.0,74.7,16.2
+8,106,"other rice products (khoi/lawa, etc.)",kg,3571.0,78.2,12.0
+9,107,wheat/ atta - PDS,kg,3206.0,105.7,15.3
+10,108,wheat/ atta - other sources,kg,3206.0,105.7,15.3
+11,110,maida,kg,3522.0,103.6,7.6
+12,111,"suji, rawa",kg,3340.0,113.8,7.4
+13,112,vermicelli (sewai),kg,3330.0,97.0,4.5
+14,114,other wheat products,kg,3130.0,99.1,11.3
+15,001,"coarse grains - PDS (jowar, bajra, maize, barley, ragi, small millets)",kg,2993.0,94.4,30.2
+16,002,"coarse grains - other sources (jowar, bajra, maize, barley, ragi, small millets & its products)",kg,3197.0,93.6,29.0
+17,122,other cereals & products,kg,3347.0,102.7,29.7
+18,139,cereal substitute,kg,799.0,10.3,2.0
+19,140,"arhar, tur",kg,2742.0,204.7,13.8
+20,143,moong,kg,2940.0,225.3,11.4
+21,144,masur,kg,2981.0,228.7,6.1
+22,145,urd,kg,2916.0,219.7,15.8
+23,141,gram: split,kg,3294.0,215.5,53.1
+24,142,gram: whole,kg,2873.0,187.7,51.1
+25,146,"peas, chickpeas",kg,2870.0,188.0,51.0
+26,148,"other pulses (khesari, etc.)",kg,3153.0,227.3,33.2
+27,150,"besan, gram",kg,3870.0,224.0,66.9
+28,158,pulses - PDS,kg,2946.0,224.6,11.1
+29,152,"other pulse products (soya chunks, etc.)",kg,3339.0,258.4,33.9
+30,071,pulses - free,kg,2946.0,224.6,11.1
+31,072,gram - free,kg,3084.0,201.6,52.1
+32,073,salt - free,kg,0.0,0.0,0.0
+33,074,sugar - free,kg,3980.0,1.0,0.0
+34,178,salt - PDS,kg,0.0,0.0,0.0
+35,170,salt - other sources,kg,0.0,0.0,0.0
+36,171,sugar - PDS,kg,3980.0,1.0,0.0
+37,172,sugar - other sources,kg,3980.0,1.0,0.0
+38,173,jaggery (gur),kg,3541.0,18.5,1.6
+39,174,"candy, misri",kg,4030.0,58.0,191.0
+40,175,honey,kg,3190.0,3.0,0.0
+41,160,milk: liquid,litre,929.0,35.7,68.6
+42,162,milk: condensed/powder,kg,4960.0,258.0,267.0
+43,164,ghee,kg,9000.0,0.0,1000.0
+44,163,"curd, yogurt",kg,920.0,71.5,67.5
+45,165,butter,kg,7290.0,0.0,810.0
+46,166,ice-cream (rural),re,4.1,0.05,0.33
+47,166,ice-cream (urban),re,3.5,0.04,0.28
+48,003,paneer,kg,2920.0,134.0,230.0
+49,004,prepared sweets,kg,3367.0,66.4,152.8
+50,005,cheese,gm,3.5,0.24,0.25
+51,006,lassi (rural),re,4.9,0.11,0.17
+52,006,lassi (urban),re,4.8,0.11,0.16
+53,007,buttermilk (rural),re,1.3,0.07,0.1
+54,007,buttermilk (urban),re,1.1,0.06,0.08
+55,167,other milk products (rural),re,9.9,0.26,0.82
+56,167,other milk products (urban),re,10.0,0.26,0.83
+57,201,onion,kg,481.0,15.0,2.4
+58,200,potato,kg,699.0,15.4,2.3
+59,202,tomato,kg,196.0,9.0,4.7
+60,206,palak/other leafy vegetables,kg,555.0,43.1,8.7
+61,203,brinjal,kg,254.0,14.8,3.2
+62,208,lady's finger,kg,275.0,20.8,2.2
+63,207,green chillies,kg,423.0,23.6,7.2
+64,211,cauliflower,kg,230.0,21.5,4.4
+65,213,"gourd, pumpkin",kg,239.0,8.6,1.7
+66,212,cabbage,kg,215.0,13.6,1.2
+67,210,"parwal/patal, kundru",kg,242.0,14.0,3.0
+68,215,"beans, barbati",kg,244.0,24.9,2.6
+69,214,peas,kg,813.0,72.5,1.3
+70,205,carrot,kg,333.0,9.5,4.7
+71,204,radish,kg,323.0,7.7,1.5
+72,216,lemon,no,11.0,0.12,0.24
+73,217,other vegetables,kg,539.0,24.6,7.1
+74,220,banana,no,97.0,1.1,0.28
+75,236,apple,kg,624.0,2.9,6.4
+76,224,coconut,no,327.0,3.1,33.1
+77,231,mango,kg,419.0,5.4,5.5
+78,237,grapes,kg,608.0,7.6,3.2
+79,225,green coconut,no,32.0,0.54,0.33
+80,226,guava,kg,320.0,14.0,3.0
+81,230,papaya,kg,239.0,4.2,1.6
+82,228,"orange, sweet lime (mausami)",no,27.0,0.79,0.2
+83,222,watermelon,kg,203.0,6.0,1.6
+84,232,kharbooza,kg,278.0,5.3,2.6
+85,233,pears/nashpati,kg,375.0,3.6,2.7
+86,235,litchi,kg,538.0,9.9,2.6
+87,227,singara,kg,957.0,8.6,3.7
+88,221,jackfruit,kg,723.0,27.4,1.5
+89,234,berries,kg,395.0,9.4,5.9
+90,223,pineapple,no,390.0,4.71,1.45
+91,238,other fresh fruits (rural),re,4.7,0.08,0.05
+92,238,other fresh fruits (urban),re,4.5,0.08,0.04
+93,240,coconut: copra,kg,6246.0,72.7,632.6
+94,241,groundnut,kg,5206.0,236.5,396.3
+95,243,cashew nut,kg,5833.0,187.8,452.0
+96,242,dates,kg,2864.0,11.8,4.1
+97,245,"other nuts (almond, pistachio, walnut, hazelnut, etc.)",kg,4811.0,130.3,341.7
+98,246,"raisin (kishmish), monacca, etc.",kg,2969.0,27.6,3.5
+99,008,apricot,kg,565.0,14.7,6.4
+100,010,dry fig: anjeer,kg,2490.0,33.0,9.3
+101,247,other dry fruits,kg,4798.0,215.5,316.6
+102,190,eggs,no,135.0,13.28,9.15
+103,195,chicken,kg,1090.0,259.0,6.0
+104,191,"fish, prawn",kg,1204.0,232.4,27.7
+105,192,goat meat/mutton,kg,1359.0,203.9,59.8
+106,193,beef/ buffalo meat,kg,1400.0,198.2,67.1
+107,194,pork,kg,1790.0,194.1,113.0
+108,196,"others: birds, crab, oyster, etc.",kg,2313.0,150.0,140.2
+109,181,mustard oil,kg,9000.0,0.0,1000.0
+110,184,"refined oil [sunflower, soyabean, palm oil, vegetable oil, etc.]",kg,9000.0,0.0,1000.0
+111,182,groundnut oil,kg,9000.0,0.0,1000.0
+112,183,coconut oil,kg,9000.0,0.0,1000.0
+113,188,edible oil - PDS,kg,9000.0,0.0,1000.0
+114,180,"vanaspati, margarine",kg,9000.0,0.0,1000.0
+115,185,edible oil: others,kg,9000.0,0.0,1000.0
+116,075,edible oil- free,kg,9000.0,0.0,1000.0
+117,256,dry chilies,gm,2.37,0.13,0.06
+118,254,turmeric,gm,2.81,0.08,0.05
+119,252,cumin (jeera),gm,3.05,0.14,0.17
+120,253,coriander (dhania),gm,2.69,0.11,0.17
+121,251,garlic,gm,1.24,0.07,0.0
+122,250,ginger,gm,0.55,0.02,0.01
+123,258,curry powder,gm,3.25,0.11,0.11
+124,255,black pepper,gm,2.76,0.1,0.03
+125,257,tamarind,gm,2.89,0.03,0.0
+126,260,oilseeds,gm,4.79,0.17,0.34
+127,263,poppy seeds,gm,4.23,0.2,0.3
+128,261,other spices,gm,2.45,0.08,0.1
+129,270,tea: cups,no,68.0,2.15,2.63
+130,271,tea: leaf,gm,2.96,0.2,0.0
+131,272,coffee: cups,no,75.0,2.6,3.4
+132,273,coffee: powder,gm,3.55,0.12,0.01
+133,274,mineral water,litre,0.0,0.0,0.0
+134,011,soda drinks,litre,685.0,0.1,0.0
+135,275,other cold beverages: bottled/canned,litre,705.0,0.1,0.0
+136,276,"fruit juice and shake, sugarcane/date-palm juice (rural)",re,2.0,0.05,0.04
+137,276,"fruit juice and shake, sugarcane/date-palm juice (urban)",re,2.1,0.05,0.05
+138,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (rural)",re,2.1,0.08,0.13
+139,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (urban)",re,1.9,0.07,0.12
+140,076,cooked meals purchased at subsidized rate,no,1200.0,25.0,20.0
+141,280,cooked meals purchased,no,1200.0,25.0,20.0
+142,281,cooked meals received free in workplace,no,1200.0,25.0,20.0
+143,282,cooked meals received as assistance,no,1200.0,25.0,20.0
+144,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (rural)",re,10.9,0.32,0.39
+145,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (urban)",re,8.1,0.23,0.29
+146,284,other served processed food (rural),re,9.9,0.21,0.54
+147,284,other served processed food (urban),re,8.8,0.19,0.48
+148,012,breakfast cereals (rural),re,9.4,0.29,0.08
+149,012,breakfast cereals (urban),re,9.2,0.28,0.08
+150,161,baby food,kg,4733.0,132.5,205.5
+151,290,"cake, pastry (rural)",re,8.7,0.13,0.5
+152,290,"cake, pastry (urban)",re,7.4,0.11,0.43
+153,013,biscuits (rural),re,26.1,0.46,0.59
+154,013,biscuits (urban),re,23.0,0.41,0.52
+155,291,"chocolates, etc. (rural)",re,7.3,0.09,0.43
+156,291,"chocolates, etc. (urban)",re,6.3,0.08,0.37
+157,292,"papad, bhujia, namkeen, mixture, chanachur",kg,3810.0,93.9,192.4
+158,293,"chips, nachos, puffs, wafers, etc. (rural)",re,9.6,0.09,0.66
+159,293,"chips, nachos, puffs, wafers, etc. (urban)",re,9.1,0.08,0.63
+160,294,pickles (rural),re,6.3,0.13,0.51
+161,294,pickles (urban),re,6.1,0.12,0.48
+162,295,"sauce, jam, jelly, mayonnaise",gm,2.2,0.02,0.06
+163,113,bread (bakery),kg,2450.0,78.0,7.0
+164,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (rural)",re,1.9,0.18,0.01
+165,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (urban)",re,1.9,0.17,0.01
+166,015,"noodles (cup noodles, rice noodles, etc.) (rural)",re,10.6,0.26,0.46
+167,015,"noodles (cup noodles, rice noodles, etc.) (urban)",re,10.0,0.25,0.43
+168,296,"other packaged processed food (poha, other ready to eat meal, etc.) (rural)",re,10.9,0.23,0.14
+169,296,"other packaged processed food (poha, other ready to eat meal, etc.) (urban)",re,9.4,0.2,0.12
+170,300,pan: leaf,no,1.3,0.06,0.02
+171,301,pan: finished,no,3.7,0.2,0.07
+172,302,ingredients for pan,gm,4.11,0.07,0.1
+173,322,country liquor,litre,2459.0,1.5,0.0
+174,324,foreign/refined liquor or wine,litre,693.0,2.0,0.0
+175,323,beer,litre,410.0,3.0,0.0
+176,321,toddy,litre,249.0,1.9,0.3

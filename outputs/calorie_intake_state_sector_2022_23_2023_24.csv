@@ -1,0 +1,149 @@
+﻿state_ut,year,sector,calories_kcal_per_capita_per_day,calories_kcal_per_consumer_unit_per_day
+Dadra & Nagar Haveli and Daman & Diu,2022-23,Rural,2092.0,2196.0
+Dadra & Nagar Haveli and Daman & Diu,2022-23,Urban,2497.0,2631.0
+Dadra & Nagar Haveli and Daman & Diu,2023-24,Rural,2255.0,2397.0
+Dadra & Nagar Haveli and Daman & Diu,2023-24,Urban,2469.0,2673.0
+Andaman & Nicobar Islands,2022-23,Rural,2198.0,2331.0
+Andaman & Nicobar Islands,2022-23,Urban,2324.0,2509.0
+Andaman & Nicobar Islands,2023-24,Rural,2344.0,2460.0
+Andaman & Nicobar Islands,2023-24,Urban,2397.0,2623.0
+Arunachal Pradesh,2022-23,Rural,2213.0,2360.0
+Arunachal Pradesh,2022-23,Urban,2623.0,2857.0
+Arunachal Pradesh,2023-24,Rural,2326.0,2467.0
+Arunachal Pradesh,2023-24,Urban,2722.0,2942.0
+Himachal Pradesh,2022-23,Rural,2631.0,2822.0
+Himachal Pradesh,2022-23,Urban,2667.0,2917.0
+Himachal Pradesh,2023-24,Rural,2634.0,2819.0
+Himachal Pradesh,2023-24,Urban,2730.0,2976.0
+Jammu & Kashmir,2022-23,Rural,2378.0,2560.0
+Jammu & Kashmir,2022-23,Urban,2405.0,2650.0
+Jammu & Kashmir,2023-24,Rural,2436.0,2612.0
+Jammu & Kashmir,2023-24,Urban,2325.0,2589.0
+Andhra Pradesh,2022-23,Rural,2342.0,2500.0
+Andhra Pradesh,2022-23,Urban,2314.0,2546.0
+Andhra Pradesh,2023-24,Rural,2340.0,2497.0
+Andhra Pradesh,2023-24,Urban,2285.0,2510.0
+Madhya Pradesh,2022-23,Rural,2141.0,2305.0
+Madhya Pradesh,2022-23,Urban,2107.0,2334.0
+Madhya Pradesh,2023-24,Rural,2089.0,2248.0
+Madhya Pradesh,2023-24,Urban,2088.0,2307.0
+Uttar Pradesh,2022-23,Rural,2118.0,2296.0
+Uttar Pradesh,2022-23,Urban,2084.0,2305.0
+Uttar Pradesh,2023-24,Rural,2086.0,2258.0
+Uttar Pradesh,2023-24,Urban,2080.0,2303.0
+Chhattisgarh,2022-23,Rural,2144.0,2304.0
+Chhattisgarh,2022-23,Urban,2329.0,2581.0
+Chhattisgarh,2023-24,Rural,2284.0,2457.0
+Chhattisgarh,2023-24,Urban,2366.0,2621.0
+Lakshadweep,2022-23,Rural,2165.0,2314.0
+Lakshadweep,2022-23,Urban,2270.0,2565.0
+Lakshadweep,2023-24,Rural,2372.0,2621.0
+Lakshadweep,2023-24,Urban,2345.0,2659.0
+Maharashtra,2022-23,Rural,2118.0,2271.0
+Maharashtra,2022-23,Urban,2179.0,2403.0
+Maharashtra,2023-24,Rural,2072.0,2212.0
+Maharashtra,2023-24,Urban,2110.0,2321.0
+Uttarakhand,2022-23,Rural,2256.0,2426.0
+Uttarakhand,2022-23,Urban,2259.0,2480.0
+Uttarakhand,2023-24,Rural,2253.0,2417.0
+Uttarakhand,2023-24,Urban,2291.0,2523.0
+West Bengal,2022-23,Rural,2362.0,2524.0
+West Bengal,2022-23,Urban,2284.0,2527.0
+West Bengal,2023-24,Rural,2278.0,2438.0
+West Bengal,2023-24,Urban,2199.0,2429.0
+Chandigarh,2022-23,Rural,2362.0,2507.0
+Chandigarh,2022-23,Urban,2672.0,2876.0
+Chandigarh,2023-24,Rural,2410.0,2558.0
+Chandigarh,2023-24,Urban,2712.0,2991.0
+Puducherry,2022-23,Rural,2148.0,2293.0
+Puducherry,2022-23,Urban,2215.0,2443.0
+Puducherry,2023-24,Rural,2266.0,2406.0
+Puducherry,2023-24,Urban,2239.0,2486.0
+Tamil Nadu,2022-23,Rural,2216.0,2372.0
+Tamil Nadu,2022-23,Urban,2313.0,2568.0
+Tamil Nadu,2023-24,Rural,2203.0,2354.0
+Tamil Nadu,2023-24,Urban,2304.0,2540.0
+All-India,2022-23,Rural,2233.0,2407.0
+All-India,2022-23,Urban,2250.0,2488.0
+All-India,2023-24,Rural,2212.0,2383.0
+All-India,2023-24,Urban,2240.0,2472.0
+Jharkhand,2022-23,Rural,2087.0,2275.0
+Jharkhand,2022-23,Urban,2227.0,2464.0
+Jharkhand,2023-24,Rural,2056.0,2231.0
+Jharkhand,2023-24,Urban,2165.0,2379.0
+Karnataka,2022-23,Rural,2327.0,2475.0
+Karnataka,2022-23,Urban,2357.0,2605.0
+Karnataka,2023-24,Rural,2202.0,2338.0
+Karnataka,2023-24,Urban,2289.0,2517.0
+Meghalaya,2022-23,Rural,1822.0,2017.0
+Meghalaya,2022-23,Urban,2037.0,2265.0
+Meghalaya,2023-24,Rural,1895.0,2087.0
+Meghalaya,2023-24,Urban,2114.0,2339.0
+Rajasthan,2022-23,Rural,2366.0,2576.0
+Rajasthan,2022-23,Urban,2335.0,2591.0
+Rajasthan,2023-24,Rural,2403.0,2628.0
+Rajasthan,2023-24,Urban,2364.0,2621.0
+Telangana,2022-23,Rural,2299.0,2453.0
+Telangana,2022-23,Urban,2367.0,2602.0
+Telangana,2023-24,Rural,2379.0,2541.0
+Telangana,2023-24,Urban,2455.0,2699.0
+Nagaland,2022-23,Rural,1948.0,2072.0
+Nagaland,2022-23,Urban,2201.0,2388.0
+Nagaland,2023-24,Rural,1963.0,2092.0
+Nagaland,2023-24,Urban,2196.0,2399.0
+Gujarat,2022-23,Rural,2165.0,2310.0
+Gujarat,2022-23,Urban,2304.0,2537.0
+Gujarat,2023-24,Rural,2105.0,2260.0
+Gujarat,2023-24,Urban,2310.0,2541.0
+Haryana,2022-23,Rural,2189.0,2349.0
+Haryana,2022-23,Urban,2280.0,2521.0
+Haryana,2023-24,Rural,2367.0,2548.0
+Haryana,2023-24,Urban,2360.0,2582.0
+Manipur,2022-23,Rural,2205.0,2352.0
+Manipur,2022-23,Urban,2184.0,2433.0
+Manipur,2023-24,Rural,2235.0,2389.0
+Manipur,2023-24,Urban,2333.0,2606.0
+Mizoram,2022-23,Rural,2300.0,2416.0
+Mizoram,2022-23,Urban,2487.0,2724.0
+Mizoram,2023-24,Rural,2233.0,2343.0
+Mizoram,2023-24,Urban,2444.0,2686.0
+Tripura,2022-23,Rural,2492.0,2649.0
+Tripura,2022-23,Urban,2613.0,2872.0
+Tripura,2023-24,Rural,2476.0,2656.0
+Tripura,2023-24,Urban,2592.0,2872.0
+Kerala,2022-23,Rural,2022.0,2199.0
+Kerala,2022-23,Urban,2010.0,2278.0
+Kerala,2023-24,Rural,2121.0,2292.0
+Kerala,2023-24,Urban,2104.0,2385.0
+Ladakh,2022-23,Rural,2147.0,2269.0
+Ladakh,2022-23,Urban,2550.0,2722.0
+Ladakh,2023-24,Rural,2390.0,2509.0
+Ladakh,2023-24,Urban,2676.0,2900.0
+Odisha,2022-23,Rural,2301.0,2481.0
+Odisha,2022-23,Urban,2319.0,2558.0
+Odisha,2023-24,Rural,2357.0,2552.0
+Odisha,2023-24,Urban,2406.0,2653.0
+Punjab,2022-23,Rural,2305.0,2449.0
+Punjab,2022-23,Urban,2289.0,2511.0
+Punjab,2023-24,Rural,2300.0,2440.0
+Punjab,2023-24,Urban,2365.0,2595.0
+Sikkim,2022-23,Rural,2543.0,2635.0
+Sikkim,2022-23,Urban,2918.0,3162.0
+Sikkim,2023-24,Rural,3052.0,3178.0
+Sikkim,2023-24,Urban,3341.0,3627.0
+Assam,2022-23,Rural,2099.0,2253.0
+Assam,2022-23,Urban,2304.0,2525.0
+Assam,2023-24,Rural,2073.0,2218.0
+Assam,2023-24,Urban,2310.0,2548.0
+Bihar,2022-23,Rural,2432.0,2658.0
+Bihar,2022-23,Urban,2461.0,2737.0
+Bihar,2023-24,Rural,2326.0,2539.0
+Bihar,2023-24,Urban,2453.0,2719.0
+Delhi,2022-23,Rural,2137.0,2239.0
+Delhi,2022-23,Urban,2281.0,2492.0
+Delhi,2023-24,Rural,2190.0,2309.0
+Delhi,2023-24,Urban,2222.0,2421.0
+Goa,2022-23,Rural,2476.0,2632.0
+Goa,2022-23,Urban,2535.0,2778.0
+Goa,2023-24,Rural,2584.0,2742.0
+Goa,2023-24,Urban,2747.0,3029.0

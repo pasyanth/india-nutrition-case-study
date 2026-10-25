@@ -1,0 +1,1355 @@
+---
+Page (PDF internal number): 8
+Matched phrase regex: per consumer unit
+Snippet:
+July, 2023 and August, 2023 to July, 2024.
+ Using the data on food consumption and utilizing the nutrient content values of
+different food items, estimates of per day per capita and per day per consumer unit
+intake of calorie, protein and fat are presented in this report at various levels of
+disaggregation, namely, State, sector, fractile classes of MPCE, etc.
+
+---
+Page (PDF internal number): 8
+Matched phrase regex: per consumer unit
+Snippet:
+intake of calorie, protein and fat are presented in this report at various levels of
+disaggregation, namely, State, sector, fractile classes of MPCE, etc.
+ A similar pattern in the average per day per capita and per consumer unit calorie
+intake is observed in rural and urban India in both 2022-23 and 2023-24.
+ A wide variation both in average per capita per day calorie intake and average per
+
+---
+Page (PDF internal number): 8
+Matched phrase regex: per consumer unit
+Snippet:
+ With an increase in the Monthly Per Capita Consumption Expenditure (MPCE),
+the average calorie intake also increases in rural as well as urban India.
+ An increase in average per capita per day and per consumer unit per day calorie
+intake is observed for the bottom five fractile classes in rural India and for the bottom
+six fractile classes for urban India in 2023-24 from 2022-23.
+
+---
+Page (PDF internal number): 8
+Matched phrase regex: per consumer unit
+Snippet:
+intake is observed for the bottom five fractile classes in rural India and for the bottom
+six fractile classes for urban India in 2023-24 from 2022-23.
+ In rural India, there were 14.6% households with per day per consumer unit calorie
+intake less than 1860 Kcal in 2022-23 that declined to 11.7% in 2023-24. For urban
+India, the proportion of such households came down to 10.2% in 2023-24 from
+
+---
+Page (PDF internal number): 12
+Matched phrase regex: per consumer unit
+Snippet:
+% distribution of households with calorie intake per
+consumer unit per day in 2022-23 and 2023-24: All-India
+% distribution of households with calorie intake per consumer unit*
+per day for 2022-23 & 2023-24 – Rural
+s
+
+---
+Page (PDF internal number): 12
+Matched phrase regex: per consumer unit
+Snippet:
+0
+<1860 1860-2325 2325-2790 ≥ 2790
+Calorie intake level per consumer unit (Kcal)
+2022-23 2023-24
+% distribution of households with calorie intake per consumer unit*
+
+---
+Page (PDF internal number): 12
+Matched phrase regex: per consumer unit
+Snippet:
+Calorie intake level per consumer unit (Kcal)
+2022-23 2023-24
+% distribution of households with calorie intake per consumer unit*
+per day for 2022-23 & 2023-24 – Urban
+40
+
+---
+Page (PDF internal number): 12
+Matched phrase regex: per consumer unit
+Snippet:
+5
+<1860 1860-2325 2325-2790 ≥ 2790
+Calorie intake level per consumer unit (Kcal)
+2022-23 2023-24
+NSS Report no. 594: Nutritional Intake in India Page 5 of 9
+
+---
+Page (PDF internal number): 25
+Matched phrase regex: State/UT
+Snippet:
+tables related to indicators of nutrition intake level are included in Appendix A. The detailed
+estimation procedure is presented in Appendix B. As a measure of efficacy of the estimates, the
+values of relative standard errors (RSE) of few important indicators for each State/UT are given
+in Appendix C. Since the same questionnaires were used in both the surveys, the questionnaires
+of HCES: 2023-24 are included in Appendix D.
+
+---
+Page (PDF internal number): 26
+Matched phrase regex: State/UT
+Snippet:
+No. of FSUs
+No. of sample households
+State/UT/All-India (villages/blocks)
+Rural Urban Rural Urban Rural + Urban
+Andhra Pradesh 357 235 6,245 4,025 10,270
+
+---
+Page (PDF internal number): 27
+Matched phrase regex: State/UT
+Snippet:
+No. of FSUs
+No. of sample households
+State/UT/All-India (villages/blocks)
+Rural Urban Rural Urban Rural + Urban
+Andhra Pradesh 360 239 6,306 4,159 10,465
+
+---
+Page (PDF internal number): 36
+Matched phrase regex: per consumer unit
+Snippet:
+height, nature of work, state of health is ignored in the process. The requirement of calories per
+consumer unit in reality is not a fixed amount but a variable depending upon all these factors.
+Nutritionists, while assessing calorie requirements per consumer unit, differ in their approaches to
+the problem, some specifies calorie requirement as function of body weight, while others assign
+requirements depending on nature of work (sedentary/ moderate/ heavy). From the 26th round,
+
+---
+Page (PDF internal number): 36
+Matched phrase regex: per consumer unit
+Snippet:
+the problem, some specifies calorie requirement as function of body weight, while others assign
+requirements depending on nature of work (sedentary/ moderate/ heavy). From the 26th round,
+NSS tables on nutritional intake have expressed observed calorie intakes per consumer unit of
+different segments of population as percentages of a level of 2700 kilocalories per consumer unit
+per day. This practice was continued till NSS 68th round. The recommended calorie intake level
+
+---
+Page (PDF internal number): 36
+Matched phrase regex: per consumer unit
+Snippet:
+requirements depending on nature of work (sedentary/ moderate/ heavy). From the 26th round,
+NSS tables on nutritional intake have expressed observed calorie intakes per consumer unit of
+different segments of population as percentages of a level of 2700 kilocalories per consumer unit
+per day. This practice was continued till NSS 68th round. The recommended calorie intake level
+for Indians set by the National Institute of Nutrition, ICMR, is profiled on age, gender, body mass
+
+---
+Page (PDF internal number): 37
+Matched phrase regex: per consumer unit
+Snippet:
+2.9.7.1 This procedure of recording cooked meals served to others in the expenditure of only the
+serving households leads to bias free estimates of per capita and total consumption expenditure,
+and also of per capita or per consumer unit intake of nutrients for the population as a whole.
+However, donors of free cooked meals are likely to be concentrated at the upper end of the per
+capita expenditure range and the corresponding recipients at the lower end of the same scale.
+
+---
+Page (PDF internal number): 45
+Matched phrase regex: State/UT
+Snippet:
+2.11 EFFICACY OF THE ESTIMATES
+2.11.0 The efficacy of the estimates of average calorie intake per day, average intake of protein, fat
+etc. for each State/UT has been measured in terms of Relative Standard Error (RSE), defined as:
+𝑺𝒕𝒂𝒏𝒅𝒂𝒓𝒅 𝑬𝒓𝒓𝒐𝒓
+𝑹𝑺𝑬= ×𝟏𝟎𝟎 %.
+
+---
+Page (PDF internal number): 46
+Matched phrase regex: per consumer unit
+Snippet:
+3.0.0 Based on the food consumption data collected in the questionnaires FDQ and CSQ and
+utilizing the nutrient content values of different food items as included in Table 2.2 of Chapter 2,
+estimates of per day per capita and per day and per consumer unit intake of calorie, protein and
+fat has been generated at various levels of disaggregation, namely, State, sector, fractile classes of
+MPCE, etc. and these are presented in this Chapter. In addition, trends in nutritional intake
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+(d) Distribution of calorie intake: variation with level of living.
+3.1.1 AVERAGE CALORIE INTAKE: STATES AND ALL-INDIA
+3.1.1.0 The estimates of calorie intake are presented here according to ‘per consumer unit’ as well
+as ‘per capita’. The ‘per consumer unit’ calorie intake estimate considers the difference in calorie
+requirements among persons on account of age and gender differences, and thereby serve as a
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+3.1.1 AVERAGE CALORIE INTAKE: STATES AND ALL-INDIA
+3.1.1.0 The estimates of calorie intake are presented here according to ‘per consumer unit’ as well
+as ‘per capita’. The ‘per consumer unit’ calorie intake estimate considers the difference in calorie
+requirements among persons on account of age and gender differences, and thereby serve as a
+sharper indicator of adequacy of intake than the ‘per capita’ figures.
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+requirements among persons on account of age and gender differences, and thereby serve as a
+sharper indicator of adequacy of intake than the ‘per capita’ figures.
+3.1.1.1 The per capita estimates and per consumer unit estimates of average calorie intake usually
+stand in a fixed proportion to one another, determined by the number of consumer units per 1000
+(say) of population, though this is subject to age-gender composition and the changes therein over
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+(say) of population, though this is subject to age-gender composition and the changes therein over
+time and space.
+3.1.1.2 For individual households, the ratio of the measure of per consumer unit calorie intake to
+the measure of per capita calorie intake may vary widely because of inter-household difference in
+age-gender composition. Thus, for a household with no children, the two measures will be much
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+age-gender composition. Thus, for a household with no children, the two measures will be much
+closer than for a household with a large proportion of children and babies (see Table 2.1 of
+consumer units on page 17). Hence, the per consumer unit calorie intake gives a much better idea
+of adequacy of calorie intake at the level of the individual household. Studies of distribution of
+calorie intake over households or persons will thus benefit from the use of per consumer unit
+
+---
+Page (PDF internal number): 47
+Matched phrase regex: per consumer unit
+Snippet:
+consumer units on page 17). Hence, the per consumer unit calorie intake gives a much better idea
+of adequacy of calorie intake at the level of the individual household. Studies of distribution of
+calorie intake over households or persons will thus benefit from the use of per consumer unit
+NSS Report no. 594: Nutritional Intake in India
+Page 28
+
+---
+Page (PDF internal number): 48
+Matched phrase regex: per consumer unit
+Snippet:
+calorie intake as the study variable rather than per capita calorie intake. For this report,
+distributions of calorie intake over households and persons have been generated using per
+consumer unit calorie intake. The average per capita per day calorie intake and per consumer unit
+per day calorie intake for all-India and 18 major states is given in Table 3.1.
+Table 3.1: Average calorie intake per capita and per consumer unit for major States: 2022-23
+
+---
+Page (PDF internal number): 48
+Matched phrase regex: per consumer unit
+Snippet:
+consumer unit calorie intake. The average per capita per day calorie intake and per consumer unit
+per day calorie intake for all-India and 18 major states is given in Table 3.1.
+Table 3.1: Average calorie intake per capita and per consumer unit for major States: 2022-23
+& 2023-24
+calorie intake (Kcal) per day per calorie intake (Kcal) per day per
+
+---
+Page (PDF internal number): 48
+Matched phrase regex: per consumer unit
+Snippet:
+West Bengal 2362 2284 2278 2199 2524 2527 2438 2429
+All-India 2233 2250 2212 2240 2407 2488 2383 2472
+3.1.1.3 A similar pattern in the average per day per capita and per consumer unit calorie intake is
+observed in rural and urban India in 2022-23 and 2023-24. While the average per day per capita
+calorie intake in rural India in 2022-23 was 2233 Kcal, it is observed to be 2212 in 2023-24.
+
+---
+Page (PDF internal number): 48
+Matched phrase regex: per consumer unit
+Snippet:
+Similarly, in urban India in 2022-23 the average per day per capita calorie intake was 2250 in 2022-
+23 that became 2240 in 2023-24. A wide variation both in average per capita per day calorie intake
+and average per consumer unit per day calorie intake is observed among the major states in 2022-
+23 as well as in 2023-24. Detailed estimates for all States and UTs are available in Statement 1 of
+Summary Statements.
+
+---
+Page (PDF internal number): 49
+Matched phrase regex: per consumer unit
+Snippet:
+3.1.2.0 The average calorie intake across different fractile classes (formed separately for rural and
+urban sectors) of the distribution of population by MPCE at all-India level is shown in Table 3.2.
+In each sector, the average calorie intake (per capita or per consumer unit) is seen to be a
+monotonically increasing function of MPCE class. The difference between the bottom fractile class
+(bottom 5% of population ranked by per capita expenditure level) and the top fractile class (top 5%
+
+---
+Page (PDF internal number): 49
+Matched phrase regex: per consumer unit
+Snippet:
+of population ranked by per capita expenditure level) in per capita calorie intake as well as per
+consumer unit calorie intake has narrowed significantly in 2023-24 in rural as well as urban India.
+An increase in average per capita per day and per consumer unit per day calorie intake is observed
+for the bottom five fractile classes in rural India and for the bottom six fractile classes for urban in
+2023-24 from 2022-23. An identical scenario prevails with regard to changes in per day per
+
+---
+Page (PDF internal number): 49
+Matched phrase regex: per consumer unit
+Snippet:
+2023-24 from 2022-23. An identical scenario prevails with regard to changes in per day per
+consumer unit calorie intake in 2023-24 from the level of 2022-23.
+Table 3.2: Average calorie intake per capita and per consumer unit by fractile classes
+of MPCE in 2022-23 & 2023-24: All-India
+Fractile calorie intake (Kcal) per day per calorie intake (Kcal) per day per
+
+---
+Page (PDF internal number): 49
+Matched phrase regex: per consumer unit
+Snippet:
+All-India 2233 2250 2212 2240 2407 2488 2383 2472
+3.1.3 DISTRIBUTION OF CALORIE INTAKE: STATES & ALL-INDIA
+3.1.3.0 The distribution of rural and urban households over 4 classes of per consumer unit calorie
+intake is given for 18 major states is given in Table 3.3 for the periods 2022-23 & 2023-24.
+NSS Report no. 594: Nutritional Intake in India
+
+---
+Page (PDF internal number): 50
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+Table 3.3: Percentage distribution of households by level of calorie intake per consumer unit per day for
+major States: 2022-23 & 2023-24
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 50
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.3: Percentage distribution of households by level of calorie intake per consumer unit per day for
+major States: 2022-23 & 2023-24
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+State <80 80-100 100-120 ≥120 <80 80-100 100-120 ≥120
+
+---
+Page (PDF internal number): 50
+Matched phrase regex: per consumer unit
+Snippet:
+West Bengal 7.3 33.3 33.1 26.2 10.2 31.0 29.9 29.0
+All-India 11.7 32.0 30.0 26.4 10.2 26.6 28.7 34.6
+* expressed as percentage of a norm level of 2325 Kcal per consumer unit per day
+NSS Report no. 594: Nutritional Intake in India
+Page 31
+
+---
+Page (PDF internal number): 51
+Matched phrase regex: per consumer unit
+Snippet:
+intake classes. Also, in 2023-24, number of households in bottom intake class (<80) has further
+reduced from 2022-23 in both rural and urban sectors of most of the states.
+3.1.3.2 The distribution of rural and urban households over 4 classes of per consumer unit calorie
+intake for each State/UT and All-India is given in Statements 2 & 3 of Summary Statements
+respectively for the periods 2022-23 & 2023-24.
+
+---
+Page (PDF internal number): 51
+Matched phrase regex: State/UT
+Snippet:
+reduced from 2022-23 in both rural and urban sectors of most of the states.
+3.1.3.2 The distribution of rural and urban households over 4 classes of per consumer unit calorie
+intake for each State/UT and All-India is given in Statements 2 & 3 of Summary Statements
+respectively for the periods 2022-23 & 2023-24.
+3.1.4 DISTRIBUTION OF CALORIE INTAKE: VARIATION WITH
+
+---
+Page (PDF internal number): 51
+Matched phrase regex: per consumer unit
+Snippet:
+3.1.4.0 The variation in calorie intake across different levels of living for all-India rural and urban
+households are shown in Table 3.4 for the period 2022-23 and in Table 3.5 for 2023-24.
+Table 3.4: Percentage distribution of households by level of calorie intake per consumer unit
+per day by fractile classes of MPCE in 2022-23: All-India
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 51
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.4: Percentage distribution of households by level of calorie intake per consumer unit
+per day by fractile classes of MPCE in 2022-23: All-India
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+Fractile
+
+---
+Page (PDF internal number): 51
+Matched phrase regex: per consumer unit
+Snippet:
+95-100% 3.0 10.8 21.3 64.8 1.7 5.7 11.7 80.9
+All-India 14.6 28.6 26.7 30.1 12.8 25.1 25.9 36.3
+* expressed as percentage of a norm level of 2325 Kcal per consumer unit per day
+NSS Report no. 594: Nutritional Intake in India
+Page 32
+
+---
+Page (PDF internal number): 52
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+Table 3.5: Percentage distribution of households by level of calorie intake per consumer unit
+per day by fractile classes of MPCE in 2023-24: All-India
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 52
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.5: Percentage distribution of households by level of calorie intake per consumer unit
+per day by fractile classes of MPCE in 2023-24: All-India
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+Fractile
+
+---
+Page (PDF internal number): 52
+Matched phrase regex: per consumer unit
+Snippet:
+95-100% 2.2 11.9 24.2 61.6 3.8 5.3 15.5 75.4
+All-India 11.7 32.0 30.0 26.4 10.2 26.6 28.7 34.6
+* expressed as percentage of a norm level of 2325 Kcal per consumer unit per day
+3.1.4.1 These statements show a very strong association between per capita expenditure and
+distribution of per capita calorie intake. With an increase in the level of living, i.e., as the MPCE
+
+---
+Page (PDF internal number): 54
+Matched phrase regex: State/UT
+Snippet:
+consumption of pan and intoxicants (excluding ganja and other intoxicants)) in Monthly Per
+Capita Consumption Expenditure (MPCE) along with the percentage contribution of cereals in
+total calorie consumption for each State/UT is provided in Statement 4 of Summary Statement.
+3.1.5.4 Table 3.7 shows the percentage contribution of cereals to calorie intake as well as the
+percentage shares of cereals and food in total consumption expenditure, across fractile classes of
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+3.2.1 AVERAGE PROTEIN INTAKE: STATES AND ALL-INDIA
+3.2.1.0 Table 3.8 shows per capita and per consumer unit protein intake in rural and urban areas
+of India and in the major States in 2022-23 and 2023-24. At all-India level protein intake per person
+per day was about 62 gms in the rural sector and 63 gms in the urban during both the periods.
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: per consumer unit
+Snippet:
+of India and in the major States in 2022-23 and 2023-24. At all-India level protein intake per person
+per day was about 62 gms in the rural sector and 63 gms in the urban during both the periods.
+Protein intake per consumer unit per day was a bit higher: about 67 gms in the rural sector and 70
+gms in the urban sector across both the periods. A wide variation in respect of per day per capita
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: per consumer unit
+Snippet:
+Protein intake per consumer unit per day was a bit higher: about 67 gms in the rural sector and 70
+gms in the urban sector across both the periods. A wide variation in respect of per day per capita
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: Average daily protein intake per capita
+Snippet:
+gms in the urban sector across both the periods. A wide variation in respect of per day per capita
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: per consumer unit
+Snippet:
+gms in the urban sector across both the periods. A wide variation in respect of per day per capita
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: State/UT
+Snippet:
+gms in the urban sector across both the periods. A wide variation in respect of per day per capita
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: Statement\s*5
+Snippet:
+and per consumer unit intake of protein in rural and urban sectors across major States is observed.
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+2022-23 & 2023-24
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: Average daily protein intake per capita
+Snippet:
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+2022-23 & 2023-24
+protein intake (gm) per day per protein intake (gm) per day per
+
+---
+Page (PDF internal number): 56
+Matched phrase regex: per consumer unit
+Snippet:
+Average daily protein intake per capita and per consumer unit for each State/UT is given in
+Statement 5 of Summary Statement.
+Table 3.8 Average daily protein intake per capita and per consumer unit for major States:
+2022-23 & 2023-24
+protein intake (gm) per day per protein intake (gm) per day per
+
+---
+Page (PDF internal number): 57
+Matched phrase regex: per consumer unit
+Snippet:
+3.2.2 AVERAGE PROTEIN INTAKE: VARIATION WITH LEVEL OF
+LIVING
+3.2.2.0 A steady rise in average protein intake per day per capita as well as per consumer unit
+with each succeeding MPCE classes in rural as well as in urban India can be seen from Table 3.9
+given below. Per capita per day intake of protein increases from about 42 – 44 gms in the lowest
+
+---
+Page (PDF internal number): 57
+Matched phrase regex: Average daily protein intake per capita
+Snippet:
+45 – 46 gms in the lowest fractile class to 86 – 95 gms in the top classes. Average protein intake per
+consumer unit, too, shows a similar rise in both sectors.
+Table 3.9 Average daily protein intake per capita and per consumer unit across fractile
+classes of MPCE in 2022-23 & 2023-24: All-India
+protein intake (gm) per day per protein intake (gm) per day per
+
+---
+Page (PDF internal number): 57
+Matched phrase regex: per consumer unit
+Snippet:
+45 – 46 gms in the lowest fractile class to 86 – 95 gms in the top classes. Average protein intake per
+consumer unit, too, shows a similar rise in both sectors.
+Table 3.9 Average daily protein intake per capita and per consumer unit across fractile
+classes of MPCE in 2022-23 & 2023-24: All-India
+protein intake (gm) per day per protein intake (gm) per day per
+
+---
+Page (PDF internal number): 61
+Matched phrase regex: per consumer unit
+Snippet:
+All-India 38.8 9.6 12.8 14.1 24.8 100 38.7 9.1 12.9 14.1 25.3 100
+3.2.5 AVERAGE FAT INTAKE: STATES AND ALL-INDIA
+3.2.5.0 Table 3.12 shows per capita and per consumer unit fat intake in rural and urban sectors
+of India and the major States. Estimates for all States/UTs are available in Statement 8 of
+Summary Statement.
+
+---
+Page (PDF internal number): 62
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+Table 3.12: Average daily fat intake per capita and per consumer unit for major States: 2022-
+23 & 2023-24
+fat intake (gm) per day per capita fat intake (gm) per day per
+
+---
+Page (PDF internal number): 62
+Matched phrase regex: per consumer unit
+Snippet:
+All-India 59.7 70.5 60.4 69.8 64.4 78.0 65.1 77.0
+3.2.6 AVERAGE FAT INTAKE: VARIATION WITH LEVEL OF LIVING
+3.2.6.0 Table 3.13 shows variation in fat intake per capita and per consumer unit across fractile
+classes of MPCE formed sector-wise at the all-India level. An increase in per capita as well as per
+consumer unit intake of fat is observed with rise in MPCE level. Per capita fat intake in the top
+
+---
+Page (PDF internal number): 63
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+Table 3.13: Average daily fat intake per capita and per consumer unit across fractile
+classes of MPCE in 2022-23 & 2023-24: All-India
+fat intake (gm) per day per capita fat intake (gm) per day per
+
+---
+Page (PDF internal number): 68
+Matched phrase regex: per consumer unit
+Snippet:
+of average intake of the earlier rounds, even though the latter are unadjusted.
+3.4.3 A look at Tables 3.17R, 3.17U, 3.18R and 3.18U, which show both adjusted and unadjusted
+calorie, protein and fat intake per capita and per consumer unit (all-India) from HCES: 2022-23
+and HCES: 2023-24 respectively reveals that on an average at all-India level the adjusted nutrient
+figures are marginally lower than those of the unadjusted ones in both the sectors.
+
+---
+Page (PDF internal number): 69
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+Table 3.17R: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2022-23: Rural India
+per capita per day intake per consumer unit per day intake
+
+---
+Page (PDF internal number): 69
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.17R: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2022-23: Rural India
+per capita per day intake per consumer unit per day intake
+Fractile
+Unadjusted Adjusted Unadjusted Adjusted
+
+---
+Page (PDF internal number): 69
+Matched phrase regex: per consumer unit
+Snippet:
+95-100% 3116 88.5 99.6 2960 84.6 94.3 3248 92.2 103.8 3086 88.2 98.3
+All classes 2233 61.9 59.7 2210 61.3 59.1 2407 66.7 64.4 2382 66.1 63.7
+Table 3.17U: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2022-23: Urban India
+per capita per day intake per consumer unit per day intake
+
+---
+Page (PDF internal number): 69
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.17U: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2022-23: Urban India
+per capita per day intake per consumer unit per day intake
+Fractile
+Unadjusted Adjusted Unadjusted Adjusted
+
+---
+Page (PDF internal number): 69
+Matched phrase regex: per consumer unit
+Snippet:
+95-100% 3478 94.5 117.3 3218 88.5 110.9 3723 101.2 125.6 3445 94.7 118.8
+All classes 2250 63.2 70.5 2216 62.4 69.6 2488 69.9 78.0 2450 69.0 77.0
+3.4.4 The reduction due to adjustment of intake in all-India per capita and per consumer unit
+energy intake increases with increase in MPCE fractile classes for both the sectors during 2022-23
+and 2023-24. The highest reduction is observed in top fractiles class (95-100%) across both sectors
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+Chapter Three Summary of Findings
+is observed in adjusted per capita and per consumer unit intake of protein and fat in both the
+sectors.
+Table 3.18R: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+is observed in adjusted per capita and per consumer unit intake of protein and fat in both the
+sectors.
+Table 3.18R: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2023-24: Rural India
+per capita per day intake per consumer unit per day intake
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.18R: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2023-24: Rural India
+per capita per day intake per consumer unit per day intake
+Fractile
+Unadjusted Adjusted Unadjusted Adjusted
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+95-100% 2941 85.8 95.5 2829 82.8 90.8 3069 89.5 99.7 2952 86.4 94.7
+All classes 2212 61.8 60.4 2191 61.2 59.7 2383 66.6 65.1 2360 65.9 64.4
+Table 3.18U: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2023-24: Urban India
+per capita per day intake per consumer unit per day intake
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+Table 3.18U: Per capita and per consumer unit intake of adjusted and unadjusted calorie, protein and fat
+per day in each fractile classes of MPCE in 2023-24: Urban India
+per capita per day intake per consumer unit per day intake
+Fractile
+Unadjusted Adjusted Unadjusted Adjusted
+
+---
+Page (PDF internal number): 70
+Matched phrase regex: per consumer unit
+Snippet:
+All classes 2240 63.4 69.8 2225 62.9 69.3 2472 69.9 77.0 2456 69.4 76.4
+3.4.5 For the period 2023-24, the reduction due to adjustment of intake in all-India per capita and
+per consumer unit energy intake has decreased from the level of 2022-23 and the same has been
+observed across fractiles classes of MPCE too. The highest reduction is observed in top fractiles
+class (95-100%) in rural sector with around 4% reduction in energy intake while for urban sector,
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+Statement no. Description Page no.
+Statement 1 Average daily calorie intake per capita and per S1
+consumer unit by State/UT and sector: 2022-23 &
+2023-24
+Statement 2 Percentage distribution of households by level of S2
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: per consumer unit
+Snippet:
+2023-24
+Statement 2 Percentage distribution of households by level of S2
+calorie intake per consumer unit per day by State/UT
+and sector: 2022-23
+Statement 3 Percentage distribution of households by level of S3
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+2023-24
+Statement 2 Percentage distribution of households by level of S2
+calorie intake per consumer unit per day by State/UT
+and sector: 2022-23
+Statement 3 Percentage distribution of households by level of S3
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: per consumer unit
+Snippet:
+and sector: 2022-23
+Statement 3 Percentage distribution of households by level of S3
+calorie intake per consumer unit per day by State/UT
+and sector: 2023-24
+Statement 4 Percentage share of food and cereals in total S4
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+and sector: 2022-23
+Statement 3 Percentage distribution of households by level of S3
+calorie intake per consumer unit per day by State/UT
+and sector: 2023-24
+Statement 4 Percentage share of food and cereals in total S4
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+household consumption expenditure, and percentage
+contribution of cereals to calorie consumption for
+State/UT in 2022-23 & 2023-24
+Statement 5 Average daily protein intake per capita and per S5
+consumer unit by State/UT and sector: 2022-23 &
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: Statement\s*5
+Snippet:
+contribution of cereals to calorie consumption for
+State/UT in 2022-23 & 2023-24
+Statement 5 Average daily protein intake per capita and per S5
+consumer unit by State/UT and sector: 2022-23 &
+2023-24
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: Average daily protein intake per capita
+Snippet:
+contribution of cereals to calorie consumption for
+State/UT in 2022-23 & 2023-24
+Statement 5 Average daily protein intake per capita and per S5
+consumer unit by State/UT and sector: 2022-23 &
+2023-24
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+State/UT in 2022-23 & 2023-24
+Statement 5 Average daily protein intake per capita and per S5
+consumer unit by State/UT and sector: 2022-23 &
+2023-24
+Statement 6 Percentage break-up of protein intake by food group S6
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+2023-24
+Statement 6 Percentage break-up of protein intake by food group S6
+for State/UT in 2022-23
+Statement 7 Percentage break-up of protein intake by food group S7
+for State/UT in 2023-24
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+for State/UT in 2022-23
+Statement 7 Percentage break-up of protein intake by food group S7
+for State/UT in 2023-24
+Statement 8 Average daily fat intake per capita and per consumer S8
+unit by State/UT and sector: 2022-23 & 2023-24
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+for State/UT in 2023-24
+Statement 8 Average daily fat intake per capita and per consumer S8
+unit by State/UT and sector: 2022-23 & 2023-24
+Statement 9 Average adjusted and unadjusted calorie intake per S9
+capita and per consumer unit in a day by State/UT
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: per consumer unit
+Snippet:
+unit by State/UT and sector: 2022-23 & 2023-24
+Statement 9 Average adjusted and unadjusted calorie intake per S9
+capita and per consumer unit in a day by State/UT
+and sector: 2022-23
+Statement 10 Average adjusted and unadjusted calorie intake per S10
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+unit by State/UT and sector: 2022-23 & 2023-24
+Statement 9 Average adjusted and unadjusted calorie intake per S9
+capita and per consumer unit in a day by State/UT
+and sector: 2022-23
+Statement 10 Average adjusted and unadjusted calorie intake per S10
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: per consumer unit
+Snippet:
+and sector: 2022-23
+Statement 10 Average adjusted and unadjusted calorie intake per S10
+capita and per consumer unit in a day by State/UT
+and sector: 2023-24
+Statement 11 Average number of meals taken in 30 days by S11
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+and sector: 2022-23
+Statement 10 Average adjusted and unadjusted calorie intake per S10
+capita and per consumer unit in a day by State/UT
+and sector: 2023-24
+Statement 11 Average number of meals taken in 30 days by S11
+
+---
+Page (PDF internal number): 76
+Matched phrase regex: State/UT
+Snippet:
+and sector: 2023-24
+Statement 11 Average number of meals taken in 30 days by S11
+State/UT and sector: 2022-23 & 2023-24
+SI
+
+---
+Page (PDF internal number): 78
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 1: Average daily calorie intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-
+24
+calorie intake (Kcal) per day per consumer
+
+---
+Page (PDF internal number): 78
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 1: Average daily calorie intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-
+24
+calorie intake (Kcal) per day per consumer
+
+---
+Page (PDF internal number): 78
+Matched phrase regex: State/UT
+Snippet:
+calorie intake (Kcal) per day per capita
+unit
+State/UT/All-India
+2022-23 2023-24 2022-23 2023-24
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 79
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 2: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2022-23
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 79
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 2: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2022-23
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 79
+Matched phrase regex: per consumer unit
+Snippet:
+Statement 2: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2022-23
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+State/UT/All-India <80 80-100 100-120 ≥120 <80 80-100 100-120 ≥120
+
+---
+Page (PDF internal number): 79
+Matched phrase regex: State/UT
+Snippet:
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+State/UT/All-India <80 80-100 100-120 ≥120 <80 80-100 100-120 ≥120
+(<1860 (1860- (2325- (≥ 2790 (<1860 (1860- (2325- (≥ 2790
+Kcal) 2325 2790 Kcal) Kcal) 2325 2790 Kcal)
+
+---
+Page (PDF internal number): 79
+Matched phrase regex: per consumer unit
+Snippet:
+Puducherry 18.8 37.7 19.0 24.5 13.8 26.0 24.9 35.4
+All-India 14.6 28.6 26.7 30.1 12.8 25.1 25.9 36.3
+* expressed as a percentage of a norm level of 2325 Kcal per consumer unit per day
+NSS Report no. 594: Nutritional Intake in India
+Page S2
+
+---
+Page (PDF internal number): 80
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 3: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2023-24
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 80
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 3: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2023-24
+% distribution of households with calorie intake per consumer unit per day*
+
+---
+Page (PDF internal number): 80
+Matched phrase regex: per consumer unit
+Snippet:
+Statement 3: Percentage distribution of households by level of calorie intake per consumer unit per day by State/UT
+and sector: 2023-24
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+State/UT/All-India <80 80-100 100-120 ≥120 <80 80-100 100-120 ≥120
+
+---
+Page (PDF internal number): 80
+Matched phrase regex: State/UT
+Snippet:
+% distribution of households with calorie intake per consumer unit per day*
+Rural Urban
+State/UT/All-India <80 80-100 100-120 ≥120 <80 80-100 100-120 ≥120
+(<1860 (1860- (2325- (≥ 2790 (<1860 (1860- (2325- (≥ 2790
+Kcal) 2325 2790 Kcal) Kcal) 2325 2790 Kcal)
+
+---
+Page (PDF internal number): 80
+Matched phrase regex: per consumer unit
+Snippet:
+Puducherry 10.8 29.3 32.1 27.7 14.0 19.8 32.5 33.6
+All-India 11.7 32.0 30.0 26.4 10.2 26.6 28.7 34.6
+* expressed as a percentage of a norm level of 2325 Kcal per consumer unit per day
+NSS Report no. 594: Nutritional Intake in India
+Page S3
+
+---
+Page (PDF internal number): 81
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 4: Percentage share of food and cereals in total household consumption expenditure, and percentage contribution of cereals
+to calorie consumption for State/UT in 2022-23 & 2023-24
+State/UT/All-India % expenditure on food* % expenditure on cereal % of calories from cereals
+2022-23 2023-24 2022-23 2023-24 2022-23 2023-24
+
+---
+Page (PDF internal number): 81
+Matched phrase regex: State/UT
+Snippet:
+Statement 4: Percentage share of food and cereals in total household consumption expenditure, and percentage contribution of cereals
+to calorie consumption for State/UT in 2022-23 & 2023-24
+State/UT/All-India % expenditure on food* % expenditure on cereal % of calories from cereals
+2022-23 2023-24 2022-23 2023-24 2022-23 2023-24
+Rural Urban Rural Urban Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 82
+Matched phrase regex: Statement\s*5
+Snippet:
+Summary Statements
+Statement 5: Average daily protein intake per capita and per consumer unit by State/UT and sector: 2022-23 &
+2023-24
+protein intake (gm) per day per consumer
+
+---
+Page (PDF internal number): 82
+Matched phrase regex: Average daily protein intake per capita
+Snippet:
+Summary Statements
+Statement 5: Average daily protein intake per capita and per consumer unit by State/UT and sector: 2022-23 &
+2023-24
+protein intake (gm) per day per consumer
+
+---
+Page (PDF internal number): 82
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 5: Average daily protein intake per capita and per consumer unit by State/UT and sector: 2022-23 &
+2023-24
+protein intake (gm) per day per consumer
+
+---
+Page (PDF internal number): 82
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 5: Average daily protein intake per capita and per consumer unit by State/UT and sector: 2022-23 &
+2023-24
+protein intake (gm) per day per consumer
+
+---
+Page (PDF internal number): 82
+Matched phrase regex: State/UT
+Snippet:
+protein intake (gm) per day per capita
+unit
+State/UT/All-India
+2022-23 2023-24 2022-23 2023-24
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 83
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 6: Percentage break-up of protein intake by food group for State/UT in 2022-23
+% share of protein intake coming from
+Rural Urban
+
+---
+Page (PDF internal number): 83
+Matched phrase regex: State/UT
+Snippet:
+% share of protein intake coming from
+Rural Urban
+State/UT/All-India cereals pulses milk & egg, other all cereals pulses milk & egg, other all
+milk fish & food milk fish & food
+produc meat produc meat
+
+---
+Page (PDF internal number): 84
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 7: Percentage break-up of protein intake by food group for State/UT in 2023-24
+% share of protein intake coming from
+Rural Urban
+
+---
+Page (PDF internal number): 84
+Matched phrase regex: State/UT
+Snippet:
+% share of protein intake coming from
+Rural Urban
+State/UT/All-India cereals pulses milk & egg, other all cereals pulses milk & egg, other all
+milk fish & food milk fish & food
+produc meat produc meat
+
+---
+Page (PDF internal number): 85
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 8: Average daily fat intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-24
+fat intake (gm) per day per capita fat intake (gm) per day per consumer unit
+State/UT/All-India 2022-23 2023-24 2022-23 2023-24
+
+---
+Page (PDF internal number): 85
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 8: Average daily fat intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-24
+fat intake (gm) per day per capita fat intake (gm) per day per consumer unit
+State/UT/All-India 2022-23 2023-24 2022-23 2023-24
+
+---
+Page (PDF internal number): 85
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 8: Average daily fat intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-24
+fat intake (gm) per day per capita fat intake (gm) per day per consumer unit
+State/UT/All-India 2022-23 2023-24 2022-23 2023-24
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 85
+Matched phrase regex: State/UT
+Snippet:
+Statement 8: Average daily fat intake per capita and per consumer unit by State/UT and sector: 2022-23 & 2023-24
+fat intake (gm) per day per capita fat intake (gm) per day per consumer unit
+State/UT/All-India 2022-23 2023-24 2022-23 2023-24
+Rural Urban Rural Urban Rural Urban Rural Urban
+(1) (2) (3) (4) (5) (6) (7) (8) (9)
+
+---
+Page (PDF internal number): 86
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 9: Average adjusted and unadjusted calorie intake per capita and per consumer unit in a
+day by State/UT and sector: 2022-23
+calorie intake (Kcal) per day per
+
+---
+Page (PDF internal number): 86
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 9: Average adjusted and unadjusted calorie intake per capita and per consumer unit in a
+day by State/UT and sector: 2022-23
+calorie intake (Kcal) per day per
+calorie intake (Kcal) per day per capita
+
+---
+Page (PDF internal number): 86
+Matched phrase regex: State/UT
+Snippet:
+calorie intake (Kcal) per day per capita
+consumer unit
+State/UT/All-India
+Unadjusted Adjusted* Unadjusted Adjusted*
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 87
+Matched phrase regex: per consumer unit
+Snippet:
+Summary Statements
+Statement 10: Average adjusted and unadjusted calorie intake per capita and per consumer unit in
+a day by State/UT and sector: 2023-24
+calorie intake (Kcal) per day per
+
+---
+Page (PDF internal number): 87
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 10: Average adjusted and unadjusted calorie intake per capita and per consumer unit in
+a day by State/UT and sector: 2023-24
+calorie intake (Kcal) per day per
+calorie intake (Kcal) per day per capita
+
+---
+Page (PDF internal number): 87
+Matched phrase regex: State/UT
+Snippet:
+calorie intake (Kcal) per day per capita
+consumer unit
+State/UT/All-India
+Unadjusted Adjusted* Unadjusted Adjusted*
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 88
+Matched phrase regex: State/UT
+Snippet:
+Summary Statements
+Statement 11: Average number of meals taken in 30 days by State/UT and sector: 2022-23 & 2023-24
+2022-23 2023-24
+average no. of meals taken in 30 days
+
+---
+Page (PDF internal number): 88
+Matched phrase regex: State/UT
+Snippet:
+2022-23 2023-24
+average no. of meals taken in 30 days
+State/UT/All-India
+per household per person per household per person
+Rural Urban Rural Urban Rural Urban Rural Urban
+
+---
+Page (PDF internal number): 92
+Matched phrase regex: per consumer unit
+Snippet:
+Table no. Description
+HCES: 2022-23
+Table A1 Per capita and per consumer unit intake of calorie, protein and fat per day
+by each fractile class of MPCE: 2022-23
+Table A2 Per capita and per consumer unit adjusted intake of calorie, protein and fat
+
+---
+Page (PDF internal number): 92
+Matched phrase regex: per consumer unit
+Snippet:
+Table A1 Per capita and per consumer unit intake of calorie, protein and fat per day
+by each fractile class of MPCE: 2022-23
+Table A2 Per capita and per consumer unit adjusted intake of calorie, protein and fat
+per day by each fractile class of MPCE: 2022-23
+Table A3 Percentage of total intake of calorie and protein derived from different
+
+---
+Page (PDF internal number): 92
+Matched phrase regex: per consumer unit
+Snippet:
+school, etc.) during a period of 30 days by age and gender: 2022-23
+HCES: 2023-24
+Table A11 Per capita and per consumer unit intake of calorie, protein and fat per day
+by each fractile class of MPCE: 2023-24
+Table A12 Per capita and per consumer unit adjusted intake of calorie, protein and fat
+
+---
+Page (PDF internal number): 92
+Matched phrase regex: per consumer unit
+Snippet:
+Table A11 Per capita and per consumer unit intake of calorie, protein and fat per day
+by each fractile class of MPCE: 2023-24
+Table A12 Per capita and per consumer unit adjusted intake of calorie, protein and fat
+per day by each fractile class of MPCE: 2023-24
+Table A13 Percentage of total intake of calorie and protein derived from different
+
+---
+Page (PDF internal number): 99
+Matched phrase regex: State/UT
+Snippet:
+selection.
+2.2.3 STRATIFICATION OF FSUS
+2.2.3.0 A State/UT is considered as a basic geographical unit for stratum formation in
+both the sectors for HCES:2023-24. The sector-specific stratification criteria are given
+below:
+
+---
+Page (PDF internal number): 99
+Matched phrase regex: State/UT
+Snippet:
+(i) A Special Stratum comprising of all the uninhabited villages as per Census 2011 is
+formed at All-India level.
+(ii) From the remaining villages, two more strata are formed in each State/UT:
+(a) Stratum 1: Comprising of the villages within a distance of 5 Kms from the district
+headquarter or from a city/town with more than 5 lakh population. This stratum
+
+---
+Page (PDF internal number): 99
+Matched phrase regex: State/UT
+Snippet:
+(a) Stratum 1: Comprising of the villages within a distance of 5 Kms from the district
+headquarter or from a city/town with more than 5 lakh population. This stratum
+is not formed if there are less than 50 such villages in the State/UT.
+NSS Report no. 594: Nutritional Intake in India
+Page B4
+
+---
+Page (PDF internal number): 100
+Matched phrase regex: State/UT
+Snippet:
+Appendix B Survey Methodology & Estimation Procedure
+(b) Stratum 2: Rest of the villages.
+Urban Sector: UFS blocks within each State/UT are divided into strata based on
+two criteria i.e., Population as per Census 2011 and ‘Affluence’ status as indicated in
+UFS frame. The stratum compositions are as follows:
+
+---
+Page (PDF internal number): 101
+Matched phrase regex: State/UT
+Snippet:
+2.2.5 SAMPLE SIZE
+2.2.5.0 8,684 FSUs in the rural areas and 6,143 in the urban areas have been surveyed in
+HCES:2023-24. The total sample size of 14,827 FSUs has been allocated to State/UTs in
+proportion to Census 2011 population, subject to a minimum allocation of 40 FSUs.
+2.2.6 SELECTION OF FSUS WITHIN A STRATUM/SUB-
+
+---
+Page (PDF internal number): 103
+Matched phrase regex: State/UT
+Snippet:
+SSS 1 households had land possessed more that commercial use as on date of listing
+X as per NSS 77th round SAS survey. This whose combined purchase price
+was determined at State/UT level was more than Rupees 10 lakhs
+Households with land possessed > Y and Households owned one or more
+less than or equal to X, where Y is such four-wheeler cars for non-
+
+---
+Page (PDF internal number): 103
+Matched phrase regex: State/UT
+Snippet:
+possessed more that Y as per NSS 77th whose combined purchase price
+round SAS survey. This was determined was less than or equal to Rupees 10
+at State/UT level lakhs
+SSS 3 Remaining households Remaining households
+2.2.8.1 A total of 18 households are surveyed from each of the selected FSUs. Allocation
+
+---
+Page (PDF internal number): 106
+Matched phrase regex: State/UT
+Snippet:
+Appendix B Survey Methodology & Estimation Procedure
+3.4 OVERALL ESTIMATE OF AGGREGATES AT
+STATE/UT/ALL-INDIA LEVEL:
+ˆ
+3.4.0 The overall estimate Y at the State/ UT/ all-India level is obtained by summing
+
+---
+Page (PDF internal number): 114
+Matched phrase regex: State/UT
+Snippet:
+capita per day (Kcal) by States/UTs - 2022-23
+RSE (%) of per capita per day calorie intake
+State/UT/All-India Unadjusted Adjusted
+Rural Urban Rural Urban
+Andhra Pradesh 0.76 1.39 0.74 1.40
+
+---
+Page (PDF internal number): 115
+Matched phrase regex: State/UT
+Snippet:
+capita per day (Kcal) by States/UTs – 2023-24
+RSE (%) of per capita per day calorie intake
+State/UT/All-India Unadjusted Adjusted
+Rural Urban Rural Urban
+Andhra Pradesh 0.66 1.02 0.64 0.89

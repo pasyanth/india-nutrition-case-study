@@ -1,0 +1,49 @@
+observed_item_code,meaning,decision,Report594_factor_code,notes,source
+055,jowar products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+056,bajra products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+057,maize products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+058,barley products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+059,ragi products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+060,small millet products purchased from PDS at subsidized rate,map_to_factor,001,Coarse-grain subtype; use the same per-kg Table 2.2 factor as coarse grains PDS,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+063,jowar products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+064,bajra products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+065,maize products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+066,barley products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+067,ragi products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+068,small millet products received free from PDS/FPS/POS,map_to_factor,070,Coarse-grain subtype; use the same per-kg Table 2.2 factor as free coarse grains,HCES 2022-23 Instructions to Field Staff Vol I pp C-54-C-55; HCES 2023-24 questionnaire p25
+115,jowar products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+116,bajra products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+117,maize products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+118,barley products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+120,small millet products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+121,ragi products purchased from other sources,map_to_factor,002,Coarse-grain subtype; use the same per-kg Table 2.2 factor as other-source coarse grains,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire p25
+092,"milk products DDM aggregate (lassi, buttermilk, other milk products)",unresolved_multiple_factors,006;007;167,The data code groups foods with distinct rupee factors; no item-level split is represented in the examined row schema,HCES 2022-23 Instructions to Field Staff Vol I p C-59; HCES 2023-24 questionnaire p28
+093,fresh-fruit DDM aggregate,unresolved_multiple_factors,Various,The code groups several fruits with different nutrient factors; no unique Table 2.2 coefficient exists for the aggregate,HCES 2022-23 Instructions to Field Staff Vol I p C-60; HCES 2023-24 questionnaire p30
+094,dry-fruit DDM aggregate,unresolved_multiple_factors,Various,"The code groups apricot, dry fig, and other dry fruits with different nutrient factors",HCES 2022-23 Instructions to Field Staff Vol I p C-60; HCES 2023-24 questionnaire p31
+095,"edible-oil DDM aggregate (vanaspati, margarine, other oil)",unresolved_multiple_factors,180;185,The code groups distinct oil types; no unique Table 2.2 coefficient exists for the aggregate,HCES 2022-23 Instructions to Field Staff Vol I p C-61; HCES 2023-24 questionnaire p33
+129,cereal subtotal,exclude_subtotal,,Sum of constituent cereal rows; do not add it to item rows,HCES 2022-23 Instructions to Field Staff Vol I p C-55; HCES 2023-24 questionnaire food schedule
+159,pulses subtotal,exclude_subtotal,,Sum of constituent pulse rows; do not add it to item rows,HCES 2022-23 Instructions to Field Staff Vol I p C-56; HCES 2023-24 questionnaire food schedule
+169,milk and milk products subtotal,exclude_subtotal,,Sum of constituent milk rows; do not add it to item rows,HCES 2023-24 questionnaire p28
+179,salt and sugar subtotal,exclude_subtotal,,Sum of constituent salt and sugar rows; do not add it to item rows,HCES 2022-23 Instructions to Field Staff Vol I p C-56; HCES 2023-24 questionnaire food schedule
+189,edible oil subtotal,exclude_subtotal,,Sum of constituent oil rows; do not add it to item rows,HCES 2023-24 questionnaire p33
+199,egg fish and meat subtotal,exclude_subtotal,,Sum of constituent rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+219,vegetables subtotal,exclude_subtotal,,Sum of constituent vegetable rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+239,fresh-fruit subtotal,exclude_subtotal,,Sum of constituent fruit rows; do not add it to item rows,HCES 2023-24 questionnaire p30
+249,dry-fruit subtotal,exclude_subtotal,,Sum of constituent fruit rows; do not add it to item rows,HCES 2023-24 questionnaire p31
+269,spices subtotal,exclude_subtotal,,Sum of constituent spice rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+279,beverages subtotal,exclude_subtotal,,Sum of constituent beverage rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+289,served processed food subtotal,exclude_subtotal,,Sum of constituent served processed food rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+299,packaged processed food subtotal,exclude_subtotal,,Sum of constituent packaged processed food rows; do not add it to item rows,HCES 2023-24 questionnaire food schedule
+309,pan subtotal,exclude_nonfood,,Pan is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p49
+310,bidi,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+311,cigarettes,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+312,leaf tobacco,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+313,snuff,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+314,hookah tobacco,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+315,cheroot,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+316,"gutka, zarda, kimam, surti",exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+317,other tobacco products,exclude_nonfood,,Tobacco item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+319,tobacco subtotal,exclude_subtotal,,Sum of constituent tobacco rows; do not add it to item rows,HCES 2023-24 questionnaire p48
+320,ganja,exclude_nonfood,,Intoxicants item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+325,other intoxicants,exclude_nonfood,,Intoxicants item is outside the Report 594 nutrient table,HCES 2023-24 questionnaire p48
+329,intoxicants subtotal,exclude_subtotal,,Sum of constituent intoxicant rows; do not add it to item rows,HCES 2023-24 questionnaire p48

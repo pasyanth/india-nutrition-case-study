@@ -1,0 +1,19 @@
+test_family,metric,sector,population_or_groups,method,n,estimate,standard_error_or_naive_se,test_statistic,df,p_value,holm_p_within_family
+state_change_tests,calorie,Rural,36 State/UT published changes,one-sample t-test of mean state change = 0,36,50.25,19.784528788047478,2.5398633719473658,35,0.01568469872395708,0.03136939744791416
+state_change_tests,protein,Rural,36 State/UT published changes,one-sample t-test of mean state change = 0,36,1.5722222222222222,0.42673755198201735,3.6842837357994576,35,0.0007698047839667266,0.0030792191358669065
+state_change_tests,calorie,Urban,36 State/UT published changes,one-sample t-test of mean state change = 0,36,36.30555555555556,15.980038115279475,2.2719317246710213,35,0.029344614124907055,0.03136939744791416
+state_change_tests,protein,Urban,36 State/UT published changes,one-sample t-test of mean state change = 0,36,1.802777777777778,0.605942609665398,2.9751625797916295,35,0.005278673977430597,0.01583602193229179
+mpce_gradient_tests,calories,Rural,"12 MPCE fractile means, 2022-23",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,protein,Rural,"12 MPCE fractile means, 2022-23",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,calories,Urban,"12 MPCE fractile means, 2022-23",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,protein,Urban,"12 MPCE fractile means, 2022-23",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,calories,Rural,"12 MPCE fractile means, 2023-24",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,protein,Rural,"12 MPCE fractile means, 2023-24",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,calories,Urban,"12 MPCE fractile means, 2023-24",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+mpce_gradient_tests,protein,Urban,"12 MPCE fractile means, 2023-24",Spearman rank correlation; t approximation for p,12,1.0,,1.0,10,4.17535139757362e-09,3.340281118058896e-08
+state_comovement_tests,calorie-protein co-change (Pearson r),Rural,36 State/UT change pairs,Pearson correlation; t approximation for p,36,0.9341714263488737,,0.9341714263488737,34,8.79624658033582e-17,1.759249316067164e-16
+state_comovement_tests,calorie-protein co-change (Pearson r),Urban,36 State/UT change pairs,Pearson correlation; t approximation for p,36,0.6219114514581876,,0.6219114514581876,34,5.1448478265826275e-05,5.1448478265826275e-05
+state_trajectory_tests,baseline protein vs protein change,Rural,36 State/UT point estimates,Pearson correlation; t approximation for p,36,0.2709961013207031,,0.2709961013207031,34,0.10989376199179257,0.21978752398358514
+state_trajectory_tests,baseline protein vs protein change,Rural,36 State/UT point estimates,Spearman rank correlation; t approximation for p,36,0.2327109130397544,,0.2327109130397544,34,0.17199371487627257,0.21978752398358514
+state_trajectory_tests,baseline protein vs protein change,Urban,36 State/UT point estimates,Pearson correlation; t approximation for p,36,0.5460287660725084,,0.5460287660725084,34,0.0005714963944513907,0.002285985577805563
+state_trajectory_tests,baseline protein vs protein change,Urban,36 State/UT point estimates,Spearman rank correlation; t approximation for p,36,0.43663879627076035,,0.43663879627076035,34,0.007756537190877233,0.0232696115726317

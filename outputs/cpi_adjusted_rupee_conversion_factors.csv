@@ -1,0 +1,73 @@
+﻿serial,item_code,item_name,sector,survey_period,reference_unit,Dec2024_kcal_per_rupee,Dec2024_protein_g_per_rupee,Dec2024_fat_g_per_rupee,CPI_adjustment_ratio,period_kcal_per_rupee,period_protein_g_per_rupee,period_fat_g_per_rupee
+46,166,ice-cream (rural),Rural,2022-23,rupee,4.1,0.05,0.33,1.151381111,4.720662557,0.057569056,0.379955767
+46,166,ice-cream (rural),Rural,2023-24,rupee,4.1,0.05,0.33,1.071419188,4.392818671,0.053570959,0.353568332
+47,166,ice-cream (urban),Urban,2022-23,rupee,3.5,0.04,0.28,1.143377167,4.001820085,0.045735087,0.320145607
+47,166,ice-cream (urban),Urban,2023-24,rupee,3.5,0.04,0.28,1.062000761,3.717002663,0.042480030,0.297360213
+51,006,lassi (rural),Rural,2022-23,rupee,4.9,0.11,0.17,1.151381111,5.641767446,0.126651922,0.195734789
+51,006,lassi (rural),Rural,2023-24,rupee,4.9,0.11,0.17,1.071419188,5.249954022,0.117856111,0.182141262
+52,006,lassi (urban),Urban,2022-23,rupee,4.8,0.11,0.16,1.143377167,5.488210402,0.125771488,0.182940347
+52,006,lassi (urban),Urban,2023-24,rupee,4.8,0.11,0.16,1.062000761,5.097603652,0.116820084,0.169920122
+53,007,buttermilk (rural),Rural,2022-23,rupee,1.3,0.07,0.1,1.151381111,1.496795445,0.080596678,0.115138111
+53,007,buttermilk (rural),Rural,2023-24,rupee,1.3,0.07,0.1,1.071419188,1.392844945,0.074999343,0.107141919
+54,007,buttermilk (urban),Urban,2022-23,rupee,1.1,0.06,0.08,1.143377167,1.257714884,0.068602630,0.091470173
+54,007,buttermilk (urban),Urban,2023-24,rupee,1.1,0.06,0.08,1.062000761,1.168200837,0.063720046,0.084960061
+55,167,other milk products (rural),Rural,2022-23,rupee,9.9,0.26,0.82,1.151381111,11.398673004,0.299359089,0.944132511
+55,167,other milk products (rural),Rural,2023-24,rupee,9.9,0.26,0.82,1.071419188,10.607049963,0.278568989,0.878563734
+56,167,other milk products (urban),Urban,2022-23,rupee,10.0,0.26,0.83,1.143377167,11.433771670,0.297278063,0.949003049
+56,167,other milk products (urban),Urban,2023-24,rupee,10.0,0.26,0.83,1.062000761,10.620007607,0.276120198,0.881460631
+91,238,other fresh fruits (rural),Rural,2022-23,rupee,4.7,0.08,0.05,1.151381111,5.411491224,0.092110489,0.057569056
+91,238,other fresh fruits (rural),Rural,2023-24,rupee,4.7,0.08,0.05,1.071419188,5.035670184,0.085713535,0.053570959
+92,238,other fresh fruits (urban),Urban,2022-23,rupee,4.5,0.08,0.04,1.143377167,5.145197252,0.091470173,0.045735087
+92,238,other fresh fruits (urban),Urban,2023-24,rupee,4.5,0.08,0.04,1.062000761,4.779003423,0.084960061,0.042480030
+136,276,"fruit juice and shake, sugarcane/date-palm juice (rural)",Rural,2022-23,rupee,2.0,0.05,0.04,1.151381111,2.302762223,0.057569056,0.046055244
+136,276,"fruit juice and shake, sugarcane/date-palm juice (rural)",Rural,2023-24,rupee,2.0,0.05,0.04,1.071419188,2.142838376,0.053570959,0.042856768
+137,276,"fruit juice and shake, sugarcane/date-palm juice (urban)",Urban,2022-23,rupee,2.1,0.05,0.05,1.143377167,2.401092051,0.057168858,0.057168858
+137,276,"fruit juice and shake, sugarcane/date-palm juice (urban)",Urban,2023-24,rupee,2.1,0.05,0.05,1.062000761,2.230201598,0.053100038,0.053100038
+138,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (rural)",Rural,2022-23,rupee,2.1,0.08,0.13,1.151381111,2.417900334,0.092110489,0.149679544
+138,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (rural)",Rural,2023-24,rupee,2.1,0.08,0.13,1.071419188,2.249980295,0.085713535,0.139284494
+139,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (urban)",Urban,2022-23,rupee,1.9,0.07,0.12,1.143377167,2.172416617,0.080036402,0.137205260
+139,278,"other beverages: cocoa, drinking chocolate, health drinks, etc. (urban)",Urban,2023-24,rupee,1.9,0.07,0.12,1.062000761,2.017801445,0.074340053,0.127440091
+144,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (rural)",Rural,2022-23,rupee,10.9,0.32,0.39,1.151381111,12.550054115,0.368441956,0.449038633
+144,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (rural)",Rural,2023-24,rupee,10.9,0.32,0.39,1.071419188,11.678469151,0.342854140,0.417853483
+145,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (urban)",Urban,2022-23,rupee,8.1,0.23,0.29,1.143377167,9.261355053,0.262976748,0.331579378
+145,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav -bhaji, vada -pao, etc.] (urban)",Urban,2023-24,rupee,8.1,0.23,0.29,1.062000761,8.602206162,0.244260175,0.307980221
+146,284,other served processed food (rural),Rural,2022-23,rupee,9.9,0.21,0.54,1.151381111,11.398673004,0.241790033,0.621745800
+146,284,other served processed food (rural),Rural,2023-24,rupee,9.9,0.21,0.54,1.071419188,10.607049963,0.224998030,0.578566362
+147,284,other served processed food (urban),Urban,2022-23,rupee,8.8,0.19,0.48,1.143377167,10.061719070,0.217241662,0.548821040
+147,284,other served processed food (urban),Urban,2023-24,rupee,8.8,0.19,0.48,1.062000761,9.345606695,0.201780145,0.509760365
+148,012,breakfast cereals (rural),Rural,2022-23,rupee,9.4,0.29,0.08,1.151381111,10.822982448,0.333900522,0.092110489
+148,012,breakfast cereals (rural),Rural,2023-24,rupee,9.4,0.29,0.08,1.071419188,10.071340369,0.310711565,0.085713535
+149,012,breakfast cereals (urban),Urban,2022-23,rupee,9.2,0.28,0.08,1.143377167,10.519069937,0.320145607,0.091470173
+149,012,breakfast cereals (urban),Urban,2023-24,rupee,9.2,0.28,0.08,1.062000761,9.770406999,0.297360213,0.084960061
+151,290,"cake, pastry (rural)",Rural,2022-23,rupee,8.7,0.13,0.5,1.151381111,10.017015670,0.149679544,0.575690556
+151,290,"cake, pastry (rural)",Rural,2023-24,rupee,8.7,0.13,0.5,1.071419188,9.321346937,0.139284494,0.535709594
+152,290,"cake, pastry (urban)",Urban,2022-23,rupee,7.4,0.11,0.43,1.143377167,8.460991036,0.125771488,0.491652182
+152,290,"cake, pastry (urban)",Urban,2023-24,rupee,7.4,0.11,0.43,1.062000761,7.858805630,0.116820084,0.456660327
+153,013,biscuits (rural),Rural,2022-23,rupee,26.1,0.46,0.59,1.151381111,30.051047010,0.529635311,0.679314856
+153,013,biscuits (rural),Rural,2023-24,rupee,26.1,0.46,0.59,1.071419188,27.964040811,0.492852827,0.632137321
+154,013,biscuits (urban),Urban,2022-23,rupee,23.0,0.41,0.52,1.143377167,26.297674842,0.468784638,0.594556127
+154,013,biscuits (urban),Urban,2023-24,rupee,23.0,0.41,0.52,1.062000761,24.426017497,0.435420312,0.552240396
+155,291,"chocolates, etc. (rural)",Rural,2022-23,rupee,7.3,0.09,0.43,1.151381111,8.405082114,0.103624300,0.495093878
+155,291,"chocolates, etc. (rural)",Rural,2023-24,rupee,7.3,0.09,0.43,1.071419188,7.821360074,0.096427727,0.460710251
+156,291,"chocolates, etc. (urban)",Urban,2022-23,rupee,6.3,0.08,0.37,1.143377167,7.203276152,0.091470173,0.423049552
+156,291,"chocolates, etc. (urban)",Urban,2023-24,rupee,6.3,0.08,0.37,1.062000761,6.690604793,0.084960061,0.392940281
+158,293,"chips, nachos, puffs, wafers, etc. (rural)",Rural,2022-23,rupee,9.6,0.09,0.66,1.151381111,11.053258670,0.103624300,0.759911534
+158,293,"chips, nachos, puffs, wafers, etc. (rural)",Rural,2023-24,rupee,9.6,0.09,0.66,1.071419188,10.285624206,0.096427727,0.707136664
+159,293,"chips, nachos, puffs, wafers, etc. (urban)",Urban,2022-23,rupee,9.1,0.08,0.63,1.143377167,10.404732220,0.091470173,0.720327615
+159,293,"chips, nachos, puffs, wafers, etc. (urban)",Urban,2023-24,rupee,9.1,0.08,0.63,1.062000761,9.664206923,0.084960061,0.669060479
+160,294,pickles (rural),Rural,2022-23,rupee,6.3,0.13,0.51,1.151381111,7.253701002,0.149679544,0.587204367
+160,294,pickles (rural),Rural,2023-24,rupee,6.3,0.13,0.51,1.071419188,6.749940885,0.139284494,0.546423786
+161,294,pickles (urban),Urban,2022-23,rupee,6.1,0.12,0.48,1.143377167,6.974600719,0.137205260,0.548821040
+161,294,pickles (urban),Urban,2023-24,rupee,6.1,0.12,0.48,1.062000761,6.478204641,0.127440091,0.509760365
+164,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (rural)",Rural,2022-23,rupee,1.9,0.18,0.01,1.151381111,2.187624112,0.207248600,0.011513811
+164,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (rural)",Rural,2023-24,rupee,1.9,0.18,0.01,1.071419188,2.035696458,0.192855454,0.010714192
+165,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (urban)",Urban,2022-23,rupee,1.9,0.17,0.01,1.143377167,2.172416617,0.194374118,0.011433772
+165,014,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.) (urban)",Urban,2023-24,rupee,1.9,0.17,0.01,1.062000761,2.017801445,0.180540129,0.010620008
+166,015,"noodles (cup noodles, rice noodles, etc.) (rural)",Rural,2022-23,rupee,10.6,0.26,0.46,1.151381111,12.204639782,0.299359089,0.529635311
+166,015,"noodles (cup noodles, rice noodles, etc.) (rural)",Rural,2023-24,rupee,10.6,0.26,0.46,1.071419188,11.357043394,0.278568989,0.492852827
+167,015,"noodles (cup noodles, rice noodles, etc.) (urban)",Urban,2022-23,rupee,10.0,0.25,0.43,1.143377167,11.433771670,0.285844292,0.491652182
+167,015,"noodles (cup noodles, rice noodles, etc.) (urban)",Urban,2023-24,rupee,10.0,0.25,0.43,1.062000761,10.620007607,0.265500190,0.456660327
+168,296,"other packaged processed food (poha, other ready to eat meal, etc.) (rural)",Rural,2022-23,rupee,10.9,0.23,0.14,1.151381111,12.550054115,0.264817656,0.161193356
+168,296,"other packaged processed food (poha, other ready to eat meal, etc.) (rural)",Rural,2023-24,rupee,10.9,0.23,0.14,1.071419188,11.678469151,0.246426413,0.149998686
+169,296,"other packaged processed food (poha, other ready to eat meal, etc.) (urban)",Urban,2022-23,rupee,9.4,0.2,0.12,1.143377167,10.747745370,0.228675433,0.137205260
+169,296,"other packaged processed food (poha, other ready to eat meal, etc.) (urban)",Urban,2023-24,rupee,9.4,0.2,0.12,1.062000761,9.982807151,0.212400152,0.127440091

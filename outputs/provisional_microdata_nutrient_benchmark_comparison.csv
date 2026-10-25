@@ -1,0 +1,13 @@
+year,sector,nutrient,published_value,provisional_value,difference,percent_difference
+2022-23,Rural,Calories kcal/person/day,2233,2019.35,-213.65,-9.6
+2022-23,Rural,Protein g/person/day,61.9,55.48,-6.42,-10.4
+2022-23,Rural,Fat g/person/day,59.7,46.41,-13.29,-22.3
+2022-23,Urban,Calories kcal/person/day,2250,1942.55,-307.45,-13.7
+2022-23,Urban,Protein g/person/day,63.2,54.39,-8.81,-13.9
+2022-23,Urban,Fat g/person/day,70.5,52.80,-17.70,-25.1
+2023-24,Rural,Calories kcal/person/day,2212,1991.10,-220.90,-10.0
+2023-24,Rural,Protein g/person/day,61.8,55.04,-6.76,-10.9
+2023-24,Rural,Fat g/person/day,60.4,46.68,-13.72,-22.7
+2023-24,Urban,Calories kcal/person/day,2240,1947.88,-292.12,-13.0
+2023-24,Urban,Protein g/person/day,63.4,54.68,-8.72,-13.8
+2023-24,Urban,Fat g/person/day,69.8,52.27,-17.53,-25.1
